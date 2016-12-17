@@ -29,7 +29,7 @@ L     |           | [Link](insert link here)| [Link](insert link here)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link](insert link here)| [Link](insert link here)|
 O     |           | [Link](insert link here)| [Link](insert link here)|
-P     |           | [https://github.com/cruiz18/code4change]| [https://cdn.rawgit.com/cruiz18/code4change/master/index.html]|
+P     |           | [https://github.com/cruiz18/code4change]| [https://rawgit.com/cruiz18/code4change/master/index.html]|
 Q     |           | [Link](insert link here)| [Link](insert link here)|
 R     |           | [Link](insert link here)| [Link](insert link here)|				
 
