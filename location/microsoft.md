@@ -15,7 +15,7 @@ Projects must be submitted before 5:00pm... Be sure to start the submission proc
 Letter| Team Name |        Github Repo      |      Deployable Link    | 
 ------|-----------|-------------------------| ----------------------- |
 A     |           | [Link](insert link here)| [Link](insert link here)|
-B     | MemeForce          | [Link](https://github.com/mdepuy/trashcollection)| [Link](https://cdn.rawgit.com/mdepuy/trashcollection/master/intro.html)|
+B     | MemeForce          | [Link](https://github.com/mdepuy/trashcollection)| [Link](https://cdn.rawgit.com/mdepuy/trashcollection/v1.1/intro.html)|
 C     |           | [Link](insert link here)| [Link](insert link here)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
 E     |Water Crisis| [Link](https://github.com/Kayahma23/Water-Crisis)| [Link](https://rawgit.com/Kayahma23/Water-Crisis/master/home.html)|
