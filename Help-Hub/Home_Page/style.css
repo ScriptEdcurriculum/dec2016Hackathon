@@ -1,0 +1,22 @@
+#blurb {
+   font-size: 30px;
+ }
+body{
+   background-color:#ffffff;
+}
+.jumbotron {
+    background-color: #ffd084;
+    text-align: center;
+}
+ul {
+    background-color: #000000;
+    font-size: 20px;
+}
+.nav{
+    background-color: #ffff66;
+}
+img {
+    border: 5px #d6d6c2 solid;
+    top: 50px;
+    left: 50px;
+}

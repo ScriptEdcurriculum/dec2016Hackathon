@@ -1,0 +1,45 @@
+body{
+   background-color:#2cc18b;
+ }
+ul {
+   background-color: #000000;
+   font-size: 20px;
+   margin: auto;
+ }
+   
+.nav{
+   background-color: #ffff66;
+ }
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+h2, h3 {
+  text-decoration:underline
+}
+
+h2 {
+  margin: 40px;
+  text-align: center;
+}
+
+div.drug-info {
+    background-color: lightgrey;
+    width: 95%;
+    border: 25px solid teal;
+    padding: 25px;
+    margin: 25px;
+    font-size: 25px;
+}
+
+.drug-name {
+ font-size: 35px;
+}
+
+img {
+  float: right;
+  height: 370px;
+  width: 650px;
+ }
+ 
