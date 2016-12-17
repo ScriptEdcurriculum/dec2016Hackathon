@@ -24,7 +24,7 @@ G     |           | [Link](insert link here)| [Link](insert link here)|
 H     |           | [Link](insert link here)| [Link](insert link here)|
 I     |           | [Link](insert link here)| [Link](insert link here)|
 J     |           | [Link](insert link here)| [Link](insert link here)|
-K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](insert link here)|
+K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](https://cdn.rawgit.com/evelyncarrera22/team_k/master/firstpage.html)|
 L     |           | [Link](insert link here)| [Link](insert link here)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link](insert link here)| [Link](insert link here)|
