@@ -17,7 +17,7 @@ Letter| Team Name |        Github Repo      |      Deployable Link    |
 A     |           | [Link](insert link here)| [Link](insert link here)|
 B     |           | [Link](insert link here)| [Link](insert link here)|
 C     |           | [Link](insert link here)| [Link](insert link here)|
-D     |           | [Link](insert link here)| [Link](insert link here)|
+D     |Help-Hub | [Link](https://github.com/Andrea-Cajamarca/dec2016Hackathon)| [Link](https://cdn.rawgit.com/Andrea-Cajamarca/dec2016Hackathon/master/Help-Hub/Drugs/drugs.html)|
 E     |           | [Link](insert link here)| [Link](insert link here)|
 F     |           | [Link](https://github.com/franklin97/wazeforefugees)| [Link](insert link here)|
 G     |           | [Link](insert link here)| [Link](insert link here)|
