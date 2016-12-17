@@ -15,7 +15,7 @@ Projects must be submitted before 5:00pm... Be sure to start the submission proc
 Letter| Team Name |        Github Repo      |      Deployable Link    | 
 ------|-----------|-------------------------| ----------------------- |
 A     |GEOteer  | [Link](https://github.com/jpprieto/GEOteer)| [Link](https://rawgit.com/jpprieto/GEOteer/master/page1.html)|
-B     |MemeForce          | [Link](https://github.com/mdepuy/trashcollection)| [Link](https://cdn.rawgit.com/mdepuy/trashcollection/v1.1/intro.html)|
+B     |           | [Link](insert link here)| [Link](insert link here)|
 C     |           | [Link](insert link here)| [Link](insert link here)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
 E     |Water Crisis| [Link](https://github.com/Kayahma23/Water-Crisis)| [Link](https://rawgit.com/Kayahma23/Water-Crisis/master/home.html)|
@@ -25,7 +25,7 @@ H     |Clean-Up Team| [Link](https://github.com/EpicHoward/hackathon)| [Link](ht
 I     |      ---  | ---| ---|
 J     |The Landfill | [Link](https://github.com/rosarivera123/scripted-hackathon-2016)| [Link](https://cdn.rawgit.com/rosarivera123/scripted-hackathon-2016/master/intro-page.html)|
 K     |     TK Kokoon      | [Link](https://github.com/evelyncarrera22/team_k)| [Link](https://cdn.rawgit.com/evelyncarrera22/team_k/master/firstpage.html)|
-L     |           | [Link](insert link here)| [Link](insert link here)|
+L     |           | [Link](https://github.com/kevinhui98/hackathon_2016_team_L)| [Link](https://cdn.rawgit.com/kevinhui98/hackathon_2016_team_L/master/index.html)|
 M     |           | [Link](insert link here)| [Link](insert link here)|
 N     |           | [Link] https://github.com/JamesK1ng/TeamJaws/blob/master/README.md | [Link](insert link here)|
 O     |    Team O       | [Link](https://github.com/azizyokubjonov/let-s-talk)| [Link](https://rawgit.com/azizyokubjonov/let-s-talk/master/index.html)|
